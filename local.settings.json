@@ -1,0 +1,8 @@
+{
+    "ProxyUri": "",
+    "GlobalDeviceEndpoint": "global.azure-devices-provisioning.net",
+    "IdScope": "",
+    "RegistrationId": "",
+    "PrimaryKey": "",
+    "SecondaryKey": ""
+}
